@@ -88,4 +88,3 @@ Color favorito: <input type="color" name="color_control" />
 
  
 
-PEGAS LA URL DE LA ANTERIOR QUE TE ENVIE, DE DATOS PERSONALES
